@@ -3,7 +3,7 @@
  1. 请在用户目录下创建一个名称为 cli-practice 的目录。
  2. 请在 ~/cli-practice 目录下创建一个空白文件 readme.md。
  3. 请在 ~/cli-practice/readme.md 中添加一行文本：Hi there, this is a readme file.
- 4. 请在 ~/cli-practice/readme.md 中追加一行文本：This is the second line of the readme file.。在这条命令执行完毕之后，~/cli-practice/readme.md 文件中应当包含两行文本。
+ 4. 请在 ~/cli-practice/readme.md 中追加一行文本：This is the second line of the readme file.。在这条命令执行完毕之后，\~/cli-practice/readme.md 文件中应当包含两行文本。
  5. 请将 ~/cli-practice/readme.md 文件改名为 readme.txt
  6. 请创建目录 ~/cli-practice/document
  7. 请将 ~/cli-practice/readme.txt 文件移动到 ~/cli-practice/document 中，并改名为 introduction.txt。
@@ -12,7 +12,7 @@
  10. 请将 ~/cli-practice/document 目录复制到 ~/cli-practice/docs，目录中的文件也要进行复制。
  11. 删除 ~/cli-practice/document 目录及其中文件。
  12. 请创建 ~/cli-practice/parent/child/docs 目录。
- 13. 请将 ~/cli-practice/docs/introduction.txt 文件复制到~/cli-practice/parent/child/docs目录下
+ 13. 请将 ~/cli-practice/docs/introduction.txt 文件复制到\~/cli-practice/parent/child/docs目录下
 
 Command：
 ```bash
